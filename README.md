@@ -1,5 +1,5 @@
 # Basic Calculator
-Fun and childhood rembembering Sname Game to play and make scores. Control snake using arrow buttons and make snake to eat eggs.
+Fun and childhood remembering Snake Game to play and make scores. Control snake using arrow buttons and make snake to eat eggs.
 
 ### Technology used
 
